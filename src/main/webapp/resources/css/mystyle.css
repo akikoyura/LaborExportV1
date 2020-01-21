@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "VeganStylePersonalUse";
+  src: url("../fonts/VeganStylePersonalUse.ttf");
+  font-weight: normal;
+}
+.logo-font{
+  font-family: "VeganStylePersonalUse";
+  font-size: 1.4rem !important;
+}
+.header-font
+{
+  font-family: "VeganStylePersonalUse";
+  font-size: 2rem;
+}
